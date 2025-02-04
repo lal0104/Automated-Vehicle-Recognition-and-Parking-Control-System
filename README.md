@@ -42,46 +42,48 @@ FILTER CONTOURS AND EXTRACT ROI:<br>
 <img src = "/anpr_assets/Picture5.png" width="400" height="200">
 </div>
 
-## 📓 Overview
+## 📓 Working
 
-| Machine Learning Models Applied            | Accuracy |
+| Implementation           | Address |
 | ----------------- | ------------------------------------------------------------------ |
-| Random Forest | 81.10% |
-| Logistic Regression | 80.61% |
-| Support Vector Machine | 81.73% |
-| XGB_Classifier | 80.52% |
-| Gradient Boasting | 82.37% |
-
-<img src = "/assets/Screenshot 2025-02-05 001119.png">
-
-The Dataset was imbalanced so to increase the accuracy I applied SMOTE and then the accuracy of gradient boasting classifier reached `95.12%`.
-
-<img src = "/assets/Screenshot 2025-02-05 001021.png">
+| Presentation |<a href='ANPR,pdf' target="_blank">Link</a>|
+| Working Video| <a href='https://drive.google.com/file/d/1jezin41d2VJ_kDJaO858FicWX8nenFjh/view?usp=drivesdk' target="_blank">Link</a> |
 
 <br>
 
 ## 👉 Application
 
-The ability to predict churn before it happens allows businesses to take proactive actions to keep existing customers from churning. This could look like: 
+Automatically recognizes authorized vehicles, ensuring only the right ones get in while keeping intruders out.
 ```
-  Customer success teams reaching out to those high-risk customers to provide support or to gauge 
-  what needs may not be being met.
+ Technology makes what was once impossible, possible. The design makes it real.
 ```
 
-The advantage of calculating a company's churn rate is that it provides clarity on how well the business is retaining customers, which is a reflection on the quality of the service the business is providing, as well as its usefulness.
+ No more struggling to find a spot—this system detects your vehicle and guides you to an available space.
+
 
 <br>
 
 
 ## 🔗 Dataset:
 
-<a href='https://www.kaggle.com/datasets/blastchar/telco-customer-churn' target="_blank"><img alt='Kaggle' src='https://img.shields.io/badge/Kaggle-100000?style=for-the-badge&logo=Kaggle&logoColor=20beff&labelColor=black&color=FFFFFF'/></a>
+The data used to train and test the ANPR system includes images of vehicle number plates, 
+which are sourced from publicly available datasets, such as: 
+Random Data Generation: A Python function was created to generate random vehicle number 
+plates in the format CG [District Code] [2 Letters] [4 Digits], along with random designations 
+like "STAFF" or "STUDENT". 
+License Plate Recognition Datasets: Other publicly available datasets containing a variety of 
+vehicle plates from different countries and regions. 
+The system is also capable of integrating new plates into the database for further searches.
 
 <br >
 
 ## 👉 Conclusion
 
-Conducted in-depth statistical analysis using EDA to identify churn drivers from a dataset of 7,043 customers, focusing on key business metrics like tenure and monthly charges.<br>
-Engineered a Gradient Boosting model, achieving 95% accuracy in predicting customer churn and generating actionable insights that improved customer retention.
+Solves Inefficiencies, Unauthorized Access, and Security Issues<br>
+Utilizes Advanced Technologies (EasyOCR, Python Tesseract, MongoDB, etc.)<br>
+Traffic Control and Prevention of Unauthorized Vehicle Entry<br>
+Improved Organization, Security, and Efficiency<br>
+Sets a New Standard in Parking Solutions<br>
+
 
  
