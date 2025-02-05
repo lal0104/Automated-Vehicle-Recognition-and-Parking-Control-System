@@ -46,7 +46,7 @@ FILTER CONTOURS AND EXTRACT ROI:<br>
 
 | Implementation           | Address |
 | ----------------- | ------------------------------------------------------------------ |
-| Presentation |<a href='ANPR,pdf' target="_blank">Link</a>|
+| Presentation |<a href='ANPR.pdf' target="_blank">Link</a>|
 | Working Video| <a href='https://drive.google.com/file/d/1jezin41d2VJ_kDJaO858FicWX8nenFjh/view?usp=drivesdk' target="_blank">Link</a> |
 
 <br>
